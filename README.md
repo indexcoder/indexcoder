@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @indexcoder
+- 👀 I’m interested in ... Web Development
+- 🌱 I’m currently learning ... php (Laravel), js (VueJs)
+- 💞️ I’m looking to collaborate on ... inv.kg
+- 📫 How to reach me ... @invkg
